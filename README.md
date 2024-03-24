@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=fcdxtdZamLg
 https://kotlinlang.org/docs/data-classes.html
 https://en.wikipedia.org/wiki/Kotlin_(programming_language)
 https://kotlinlang.org/
-{Make a list of websites that you found helpful in this project}
+
 
 - [Kotline](https://kotlinlang.org/)
 - [Youtube](https://www.youtube.com/watch?v=fcdxtdZamLg)
