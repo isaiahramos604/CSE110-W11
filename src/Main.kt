@@ -29,6 +29,7 @@ class ChessGame {
     }
 
 
+
     fun movePiece(fromRow: Int, fromCol: Int, toRow: Int, toCol: Int) {
         val piece = board[fromRow][fromCol]
         if (piece == "-") {
